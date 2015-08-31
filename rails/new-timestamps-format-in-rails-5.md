@@ -1,4 +1,4 @@
-#Changes to timestmap in migration for Rails 5
+#Changes to timestamp in migration for Rails 5
 Now we have to add a default option to timestamps, when using migration.
 
 ```ruby
