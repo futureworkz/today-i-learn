@@ -9,6 +9,7 @@ If you are a member of Futureworkz, you should have push access to this reposito
 
 To commit, simply put your TIL in a markdown in the relevant folder eg. `rails/my-learning-for-today.md`
 
-Your commit message should be in this format: `TIL <folder>: <TIL Subject>`
+Your commit message should be in this format: `TIL <folder>: <TIL Subject>`.
+You should also add the content of your TIL into the description of the commit message so that in the email sent out, everyone can just read the TIL instead of going to Github to read the commit.
 
 For example, a Rails TIL for new timestamps in Rails 5 should be `TIL rails: New Timestamps in Rails 5`. This TIL should also be placed in rails folder.
